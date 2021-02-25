@@ -5,7 +5,7 @@ Desenvolvido durante a Next Level Week #4 da Rocketseat.
 
 <br />
 
-<img src="https://github.com/gui13info/Move.it/blob/master/.github/move.it.png" alt="Preview Project" width="741px" />
+<img src="https://github.com/gui13info/Move.it/blob/master/.github/move.it.png" alt="Preview Project" width="800px" />
 
 <br />
 
