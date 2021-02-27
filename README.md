@@ -21,7 +21,7 @@ git clone https://github.com/gui13info/Move.it
 cd Move.it
 
 #Instale as dependências
-yarn install
+yarn
 
 #Execute o Projeto
 yarn dev
